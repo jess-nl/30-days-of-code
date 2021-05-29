@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Day1_DataTypes
+namespace Day2Operators
 {
     class MainClass
     {
